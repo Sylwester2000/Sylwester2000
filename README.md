@@ -1,8 +1,8 @@
-# Hi there, I'm Sylwester 👋
+# Hi there, I'm Sylwester 
 
 ## About Me
-I am a graduate with a Master’s degree in Mathematics, passionate about **data analysis, predictive modeling, and data visualization**.  
-I enjoy creating **dashboards, cleaning and analyzing data, building predictive models, and exploring how data can help predict the future**.
+I am a graduate with a Master’s degree in Mathematics, passionate about data analysis, predictive modeling, and data visualization.  
+I enjoy creating dashboards, cleaning and analyzing data, building predictive models, and exploring how data can help predict the future.
 
 Currently, I am expanding my skills in:
 - **Python** (Pandas, NumPy, Matplotlib, Scikit-learn)
@@ -14,10 +14,10 @@ My goal is to build **practical, insightful, and user-friendly data solutions**.
 
 ---
 
-## 🔧 Skills & Tools
-- **Programming:** Python, R  
-- **Data Visualization:** Power BI, Matplotlib, Seaborn  
-- **Data Analysis:** Pandas, Excel  
+##  Skills and Tools
+- **Programming:** Python, R, DAX  
+- **Data Visualization:** Power BI  
+- **Data Analysis:** Excel  
 - **Version Control:** Git & GitHub  
 
 ---
